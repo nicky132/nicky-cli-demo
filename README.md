@@ -9,8 +9,8 @@ nicky-cli
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
+1.  npm link
+2.  nicky -i
 3.  xxxx
 
 #### 使用说明
